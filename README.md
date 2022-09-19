@@ -1,7 +1,7 @@
 ## CS 496: Special Topics in Data Systems Seminar (Fall 2022)
 * **Instructor:** [Andrew Crotty](https://cs.brown.edu/people/acrotty/)
 * **Day/Time:** TuTh 2:00-3:20pm
-* **Location:** TBD
+* **Location:** [Tech A110](https://www.northwestern.edu/fm/campus/classroom-catalog/tech-a110.html)
 
 ### Description
 This is a seminar course that will explore the design and implementation of
