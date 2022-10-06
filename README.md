@@ -61,31 +61,31 @@ project materials should include:
 * Programming component (code, benchmarks, demo, etc.)
 
 ### Schedule
-| Date  | Topic                         | Paper                              | Slides                             |
-| ----- | ----------------------------- | :--------------------------------: | :--------------------------------: |
-| 9/20  | Course Introduction           | [link](papers/cs496_f22_09-20.pdf) | [link](slides/cs496_f22_09-20.pdf) |
-| 9/22  | LSM-tree                      | [link](papers/cs496_f22_09-22.pdf) | |
-| 9/27  | Berkeley DB                   | [link](papers/cs496_f22_09-27.pdf) | |
-| 9/29  | LevelDB                       | [link](papers/cs496_f22_09-29.pdf) | |
-| 10/4  | RocksDB                       | [link](papers/cs496_f22_10-04.pdf) | |
-| 10/6  | PebblesDB                     | [link](papers/cs496_f22_10-06.pdf) | |
-| 10/11 | bLSM                          | [link](papers/cs496_f22_10-11.pdf) | |
-| 10/13 | cLSM                          | [link](papers/cs496_f22_10-13.pdf) | |
-| 10/18 | Project Proposals             | -                                  | |
-| 10/20 | Monkey                        | [link](papers/cs496_f22_10-20.pdf) | |
-| 10/25 | Dostoevsky                    | [link](papers/cs496_f22_10-25.pdf) | |
-| 10/27 | WiscKey                       | [link](papers/cs496_f22_10-27.pdf) | |
-| 11/1  | Bourbon                       | [link](papers/cs496_f22_11-01.pdf) | |
-| 11/3  | SplinterDB                    | [link](papers/cs496_f22_11-03.pdf) | |
-| 11/8  | LeanStore                     | [link](papers/cs496_f22_11-08.pdf) | |
-| 11/10 | SILT                          | [link](papers/cs496_f22_11-10.pdf) | |
-| 11/15 | MICA                          | [link](papers/cs496_f22_11-15.pdf) | |
-| 11/17 | FASTER                        | [link](papers/cs496_f22_11-17.pdf) | |
-| 11/22 | Thanksgiving Break (no class) | -                                  | -                                  |
-| 11/24 | Thanksgiving Break (no class) | -                                  | -                                  |
-| 11/29 | Project Presentations         | -                                  | |
-| 12/1  | Project Presentations         | -                                  | |
-| 12/6  | Projects Due (by 11:59pm)     | -                                  | -                                  |
+| Date  | Topic                         | Paper                              |
+| ----- | ----------------------------- | :--------------------------------: |
+| 9/20  | Course Introduction           | [link](papers/cs496_f22_09-20.pdf) |
+| 9/22  | LSM-tree                      | [link](papers/cs496_f22_09-22.pdf) |
+| 9/27  | Berkeley DB                   | [link](papers/cs496_f22_09-27.pdf) |
+| 9/29  | LevelDB                       | [link](papers/cs496_f22_09-29.pdf) |
+| 10/4  | RocksDB                       | [link](papers/cs496_f22_10-04.pdf) |
+| 10/6  | Leaper                        | [link](papers/cs496_f22_10-06.pdf) |
+| 10/11 | bLSM                          | [link](papers/cs496_f22_10-11.pdf) |
+| 10/13 | cLSM                          | [link](papers/cs496_f22_10-13.pdf) |
+| 10/18 | Project Proposals             | -                                  |
+| 10/20 | Monkey                        | [link](papers/cs496_f22_10-20.pdf) |
+| 10/25 | Dostoevsky                    | [link](papers/cs496_f22_10-25.pdf) |
+| 10/27 | WiscKey                       | [link](papers/cs496_f22_10-27.pdf) |
+| 11/1  | Bourbon                       | [link](papers/cs496_f22_11-01.pdf) |
+| 11/3  | SplinterDB                    | [link](papers/cs496_f22_11-03.pdf) |
+| 11/8  | LeanStore                     | [link](papers/cs496_f22_11-08.pdf) |
+| 11/10 | SILT                          | [link](papers/cs496_f22_11-10.pdf) |
+| 11/15 | MICA                          | [link](papers/cs496_f22_11-15.pdf) |
+| 11/17 | FASTER                        | [link](papers/cs496_f22_11-17.pdf) |
+| 11/22 | Thanksgiving Break (no class) | -                                  |
+| 11/24 | Thanksgiving Break (no class) | -                                  |
+| 11/29 | Project Presentations         | -                                  |
+| 12/1  | Project Presentations         | -                                  |
+| 12/6  | Projects Due (by 11:59pm)     | -                                  |
 
 ### Additional Information
 Please see below for additional course policies and information.
