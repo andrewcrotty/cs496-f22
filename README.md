@@ -70,7 +70,7 @@ project materials should include:
 | 10/4  | RocksDB                       | [link](papers/cs496_f22_10-04.pdf) |
 | 10/6  | Leaper                        | [link](papers/cs496_f22_10-06.pdf) |
 | 10/11 | Project Planning              | -                                  |
-| 10/13 | cLSM                          | [link](papers/cs496_f22_10-13.pdf) |
+| 10/13 | LRU-K                         | [link](papers/cs496_f22_10-13.pdf) |
 | 10/18 | Project Proposals             | -                                  |
 | 10/20 | Monkey                        | [link](papers/cs496_f22_10-20.pdf) |
 | 10/25 | Dostoevsky                    | [link](papers/cs496_f22_10-25.pdf) |
