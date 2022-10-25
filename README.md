@@ -20,8 +20,8 @@ project of their choosing. Grades will be determined based on the following
 criteria:
 
 ##### Paper Presentations – 25%
-Each class, a pair of students will present and lead the discussion for the
-assigned research paper. Presentations should be 40-50 minutes long and cover
+Each class, one student will present and lead the discussion for the
+assigned research paper. Presentations should be about 30 minutes long and cover
 the high-level ideas of the work, key technical details, experimental results,
 and any relevant background or related work. They should additionally include
 3-5 explicit discussion questions for the class, either interspersed throughout
@@ -71,16 +71,16 @@ project materials should include:
 | 10/6  | Leaper                        | [link](papers/cs496_f22_10-06.pdf) |
 | 10/11 | Project Planning              | -                                  |
 | 10/13 | LRU-K                         | [link](papers/cs496_f22_10-13.pdf) |
-| 10/18 | Project Proposals             | -                                  |
-| 10/20 | Monkey                        | [link](papers/cs496_f22_10-20.pdf) |
-| 10/25 | Dostoevsky                    | [link](papers/cs496_f22_10-25.pdf) |
-| 10/27 | WiscKey                       | [link](papers/cs496_f22_10-27.pdf) |
-| 11/1  | Bourbon                       | [link](papers/cs496_f22_11-01.pdf) |
-| 11/3  | SplinterDB                    | [link](papers/cs496_f22_11-03.pdf) |
-| 11/8  | LeanStore                     | [link](papers/cs496_f22_11-08.pdf) |
-| 11/10 | SILT                          | [link](papers/cs496_f22_11-10.pdf) |
-| 11/15 | MICA                          | [link](papers/cs496_f22_11-15.pdf) |
-| 11/17 | FASTER                        | [link](papers/cs496_f22_11-17.pdf) |
+| 10/18 | Project Planning              | -                                  |
+| 10/20 | Project Proposals             | -                                  |
+| 10/25 | TBA                           | [link](papers/cs496_f22_10-25.pdf) |
+| 10/27 | TBA                           | [link](papers/cs496_f22_10-27.pdf) |
+| 11/1  | TBA                           | [link](papers/cs496_f22_11-01.pdf) |
+| 11/3  | Learned Access Patterns       | [link](papers/cs496_f22_11-03.pdf) |
+| 11/8  | Learned Buffer Replacement    | [link](papers/cs496_f22_11-08.pdf) |
+| 11/10 | Prefetching with ML           | [link](papers/cs496_f22_11-10.pdf) |
+| 11/15 | TBA                           | [link](papers/cs496_f22_11-15.pdf) |
+| 11/17 | Project Planning + Discussion | -                                  |
 | 11/22 | Thanksgiving Break (no class) | -                                  |
 | 11/24 | Thanksgiving Break (no class) | -                                  |
 | 11/29 | Project Presentations         | -                                  |
