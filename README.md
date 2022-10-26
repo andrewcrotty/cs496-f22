@@ -75,7 +75,7 @@ project materials should include:
 | 10/20 | Project Proposals             | -                                  |
 | 10/25 | Voyager Neural Prefetcher     | [link](papers/cs496_f22_10-25.pdf) |
 | 10/27 | DeepBM Buffer Manager         | [link](papers/cs496_f22_10-27.pdf) |
-| 11/1  | TBA                           | [link](papers/cs496_f22_11-01.pdf) |
+| 11/1  | Scout Prefetcher              | [link](papers/cs496_f22_11-01.pdf) |
 | 11/3  | Learned Access Patterns       | [link](papers/cs496_f22_11-03.pdf) |
 | 11/8  | Learned Buffer Replacement    | [link](papers/cs496_f22_11-08.pdf) |
 | 11/10 | Prefetching with ML           | [link](papers/cs496_f22_11-10.pdf) |
