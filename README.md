@@ -79,11 +79,11 @@ project materials should include:
 | 11/3  | Learned Access Patterns       | [link](papers/cs496_f22_11-03.pdf) |
 | 11/8  | Learned Buffer Replacement    | [link](papers/cs496_f22_11-08.pdf) |
 | 11/10 | Prefetching with ML           | [link](papers/cs496_f22_11-10.pdf) |
-| 11/15 | TBA                           | [link](papers/cs496_f22_11-15.pdf) |
+| 11/15 | Competitive Caching with ML   | [link](papers/cs496_f22_11-15.pdf) |
 | 11/17 | Project Planning + Discussion | -                                  |
 | 11/22 | Thanksgiving Break (no class) | -                                  |
 | 11/24 | Thanksgiving Break (no class) | -                                  |
-| 11/29 | Project Presentations         | -                                  |
+| 11/29 | Work on Final Projects        | -                                  |
 | 12/1  | Project Presentations         | -                                  |
 | 12/6  | Projects Due (by 11:59pm)     | -                                  |
 
